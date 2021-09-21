@@ -1,0 +1,65 @@
+com/example/mine/NavBarFragment.java
+ com.example.mine.NavBarFragment
+com/example/mine/databinding/ActivityDisplayJobInfoBinding.java
+ com.example.mine.databinding.ActivityDisplayJobInfoBinding
+com/example/mine/databinding/ActivityDisplayMessageBinding.java
+ com.example.mine.databinding.ActivityDisplayMessageBinding
+com/example/mine/BuildConfig.java
+ com.example.mine.BuildConfig
+com/example/mine/MainActivity.java
+ com.example.mine.MainActivity
+com/example/mine/DisplayAvailableJobsActivity.java
+ com.example.mine.DisplayAvailableJobsActivity
+com/example/mine/DisplayJobInfo.java
+ com.example.mine.DisplayJobInfo
+ com.example.mine.DisplayJobInfo$1
+ com.example.mine.DisplayJobInfo$2
+ com.example.mine.DisplayJobInfo$3
+ com.example.mine.DisplayJobInfo$4
+ com.example.mine.DisplayJobInfo$5
+ com.example.mine.DisplayJobInfo$6
+com/example/mine/databinding/FragmentNavBarBinding.java
+ com.example.mine.databinding.FragmentNavBarBinding
+com/example/mine/databinding/ActivityAddJobsAcitivityBinding.java
+ com.example.mine.databinding.ActivityAddJobsAcitivityBinding
+com/example/mine/DisplaySavedJobsActivity.java
+ com.example.mine.DisplaySavedJobsActivity
+ com.example.mine.DisplaySavedJobsActivity$1
+ com.example.mine.DisplaySavedJobsActivity$2
+com/example/mine/AddedJobActivity.java
+ com.example.mine.AddedJobActivity
+com/example/mine/databinding/ActivityAddedJobBinding.java
+ com.example.mine.databinding.ActivityAddedJobBinding
+com/example/mine/ObjectSerializer.java
+ com.example.mine.ObjectSerializer
+com/example/mine/databinding/ActivityMainBinding.java
+ com.example.mine.databinding.ActivityMainBinding
+com/example/mine/DisplayJobsActivity.java
+ com.example.mine.DisplayJobsActivity
+ com.example.mine.DisplayJobsActivity$1
+ com.example.mine.DisplayJobsActivity$2
+com/example/mine/DisplayJobInfo2.java
+ com.example.mine.DisplayJobInfo2
+ com.example.mine.DisplayJobInfo2$1
+ com.example.mine.DisplayJobInfo2$2
+ com.example.mine.DisplayJobInfo2$3
+ com.example.mine.DisplayJobInfo2$4
+ com.example.mine.DisplayJobInfo2$5
+com/example/mine/databinding/ActivityDisplayJobsBinding.java
+ com.example.mine.databinding.ActivityDisplayJobsBinding
+com/example/mine/databinding/ActivityDisplayAvailableJobsBinding.java
+ com.example.mine.databinding.ActivityDisplayAvailableJobsBinding
+com/example/mine/AddJobsActivity.java
+ com.example.mine.AddJobsActivity
+ com.example.mine.AddJobsActivity$1
+ com.example.mine.AddJobsActivity$2
+ com.example.mine.AddJobsActivity$3
+ com.example.mine.AddJobsActivity$4
+ com.example.mine.AddJobsActivity$5
+com/example/mine/databinding/ActivityDisplayJobInfo2Binding.java
+ com.example.mine.databinding.ActivityDisplayJobInfo2Binding
+com/example/mine/databinding/ActivityDisplaySavedJobsBinding.java
+ com.example.mine.databinding.ActivityDisplaySavedJobsBinding
+com/example/mine/DisplayMessageActivity.java
+ com.example.mine.DisplayMessageActivity
+ com.example.mine.DisplayMessageActivity$1
