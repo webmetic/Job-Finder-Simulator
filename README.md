@@ -2,7 +2,7 @@
 
 Just a project I worked on. I had to complete this within a week so it's a bit basic. I did learn some basic Android Studio things and that is cool.
 
-Home Page:
+Home Page:                                                                                                                                              
 ![image](https://user-images.githubusercontent.com/74499053/134218003-03a45b24-febe-4655-8566-d9953824ad6b.png)
 
 Add Jobs Page:
